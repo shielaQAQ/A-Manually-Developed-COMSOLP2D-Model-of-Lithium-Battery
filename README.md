@@ -1,6 +1,6 @@
 # A Manually Developed COMSOL P2D Model of Lithium Battery
 
-本仓库公开一套手工搭建的锂离子电池 P2D（Pseudo-Two-Dimensional）电化学模型及相关程序，主要包括：
+本仓库公开一套手工搭建的COMSOL锂离子电池 P2D（Pseudo-Two-Dimensional）电化学模型及相关程序，主要包括：
 
 - COMSOL 中建立的基础 P2D 模型；
 - COMSOL 与 MATLAB 联合仿真程序；
