@@ -15,9 +15,7 @@
 
 | File | Description |
 |---|---|
-| `P2D-Model.mph` | 基础锂离子电池 P2D 电化学模型，使用 COMSOL Multiphysics 建立 |
-| `P2D-Model-lithium.mph` | 在基础 P2D 模型上加入析锂反应的 COMSOL 模型 |
-| `matlab_comsol.7z` | COMSOL 与 MATLAB 联合仿真的相关程序 |
+| `matlab_comsol.7z` | 基础锂离子电池 P2D 电化学模型，使用 COMSOL Multiphysics 建立 |, | 在基础 P2D 模型上加入析锂反应的 COMSOL 模型 |, | 在基础 P2D 模型上加入析锂反应的 COMSOL 模型 |.
 | `SP2D_MODEL.7z` | 简化 SP2D 模型的 MATLAB 程序，主运行文件为 `SP2D.m` |
 
 ---
